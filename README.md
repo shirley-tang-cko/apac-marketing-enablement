@@ -78,4 +78,4 @@ This repository contains internal Checkout.com marketing processes and workflow 
 
 ## 👤 Maintainer
 
-**Shirley Zheng / Shirley Tang** — APAC Marketing, Checkout.com
+**Shirley Tang** — APAC Marketing, Checkout.com
